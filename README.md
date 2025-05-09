@@ -119,6 +119,6 @@ We welcome contributions! Here's how:
 - **Monitoring**: Prometheus, Grafana
 
 ## Contact & Support
-- GitHub Repository: [github.com/ianMuchesia/Shop-Ease](https://github.com/ianMuchesia/Shop-Ease)
+- GitHub Repository: [github.com/harixx/-ShopEase-Modern-E-Commerce-Solution](https://github.com/harixx/-ShopEase-Modern-E-Commerce-Solution)
 - Documentation: [docs.shopease-demo.com](https://docs.shopease-demo.com)
 - Technical Support: [support@shopease-demo.com](mailto:support@shopease-demo.com)
